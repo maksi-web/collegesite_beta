@@ -194,7 +194,7 @@ body {
 }
 
 .header__list li {
-	padding: 0 10px;
+	padding: 5px 10px;
 
 }
 
@@ -248,7 +248,7 @@ body {
 .logo {
 	max-width: 80%;
 	margin: 0 auto;
-	margin-top: 40px;
+	margin-top: 53px;
 	display: block;
 	position: relative;
 }
